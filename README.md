@@ -9,11 +9,7 @@ https://user-images.githubusercontent.com/42896991/138540840-0edef671-3f31-4837-
 
 1. VSCode: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
     
-    ![Screen Shot 2021-10-20 at 7.24.00 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64b4fdfa-627b-482d-941e-3d1e104b2913/Screen_Shot_2021-10-20_at_7.24.00_AM.png)
-    
 2. Node.js: [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-    
-    ![Screen Shot 2021-10-20 at 7.24.28 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/902da07f-ded2-4c22-a494-9a5526006bf6/Screen_Shot_2021-10-20_at_7.24.28_AM.png)
     
 3. Download code-along-template.zip file from Discord
     1. Move it out of downloads to your desktop
