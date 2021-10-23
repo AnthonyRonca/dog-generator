@@ -19,8 +19,6 @@ https://user-images.githubusercontent.com/42896991/138540840-0edef671-3f31-4837-
         
 4. On the top of VSCode click terminal > new terminal
     
-    [Screen Recording 2021-10-20 at 7.28.57 AM.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/182d54e9-4d09-4368-984e-3f1be22528a1/Screen_Recording_2021-10-20_at_7.28.57_AM.mov)
-    
 5. Type the following commands into the terminal:
     1. npm init
     2. npm install bootstrap
