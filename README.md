@@ -5,3 +5,48 @@ Template that I put together to introduce JavaScript, CSS, API calls, and git to
 
 https://user-images.githubusercontent.com/42896991/138540840-0edef671-3f31-4837-b154-1c65076a7d18.mov
 
+# Setup
+
+1. VSCode: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+    
+    ![Screen Shot 2021-10-20 at 7.24.00 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64b4fdfa-627b-482d-941e-3d1e104b2913/Screen_Shot_2021-10-20_at_7.24.00_AM.png)
+    
+2. Node.js: [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+    
+    ![Screen Shot 2021-10-20 at 7.24.28 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/902da07f-ded2-4c22-a494-9a5526006bf6/Screen_Shot_2021-10-20_at_7.24.28_AM.png)
+    
+3. Download code-along-template.zip file from Discord
+    1. Move it out of downloads to your desktop
+    2. Open the folder and open the file 'index.html'
+        
+        [move_open.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b36938b9-7c36-4954-aebc-a92fd838cde7/move_open.mov)
+        
+4. On the top of VSCode click terminal > new terminal
+    
+    [Screen Recording 2021-10-20 at 7.28.57 AM.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/182d54e9-4d09-4368-984e-3f1be22528a1/Screen_Recording_2021-10-20_at_7.28.57_AM.mov)
+    
+5. Type the following commands into the terminal:
+    1. npm init
+    2. npm install bootstrap
+6. In VSCode go to file > open > Desktop > and click on the code-along-template folder (should be uncompressed). Then press open
+
+
+# Code Changes
+
+1. replace the empty string on line 20 with `"[https://dog.ceo/api/breeds/image/random](https://dog.ceo/api/breeds/image/random)"`
+    1. Hint: `const dogUrl = "[https://dog.ceo/api/breeds/image/random](https://dog.ceo/api/breeds/image/random)";`
+2. Replace the src string on line 51 with `"[http://www.lovethispic.com/uploaded_images/274129-Sad-Puppy.jpg](http://www.lovethispic.com/uploaded_images/274129-Sad-Puppy.jpg)"`
+3. Replace the entire style attribute on line 56 with `style="font-size: 150%; background-color: <YOUR COLOR HERE>;"`
+4. Replace the src string on line 51 with "[http://www.lovethispic.com/uploaded_images/274129-Sad-Puppy.jpg](http://www.lovethispic.com/uploaded_images/274129-Sad-Puppy.jpg)"
+
+Done with code changes!!
+
+# DONE! 🥳  + Next Steps
+
+ADVANCED STEPS:
+
+Set up Github account (?)
+
+Walk through Git together
+
+Add cool colors/color gradients
